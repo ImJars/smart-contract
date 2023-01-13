@@ -10,7 +10,7 @@ function App() {
         <Spline scene="https://prod.spline.design/6Wq1Q7YGyM-iab9i/scene.splinecode" />
         <div
           className='w-auto absolute top-1/4 transform translate-x-1/4 translate-y-full 
-                     justify-start'
+                    justify-start'
         >
           <h1 className='text-base text-white '>
             Hi everyone!
